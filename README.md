@@ -1,2 +1,2 @@
 # BussinessAnalytics
-SmartBridge internship Project
+YBI Foundation
